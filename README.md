@@ -7,11 +7,20 @@ Interfaces e imagnes del flujo de la experiencia de usuario al navegar en nuestr
 ### Inicio
 ![Inicio](https://github.com/AllieMichell/Homework2do/blob/master/Images/Inicio.png)
 
+### Menú
+![Menu](https://github.com/AllieMichell/Homework2do/blob/master/Images/Menu.png)
+
 ### Agregar Usuario
 ![Crear Cuenta](https://github.com/AllieMichell/Homework2do/blob/master/Images/Crear_cuenta.png)    ![Agregar Usuario](https://github.com/AllieMichell/Homework2do/blob/master/Images/Usuario_agregado.png)
 
 ### Agregar Materia
 ![Agregar Examen](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_tarea.jpg)    ![Agregar Tarea Datos](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_tarea_form.png)
 
+### Materias Agregadas
+![Materia Agregada](https://github.com/AllieMichell/Homework2do/blob/master/Images/Matria_agregada.png)
+
 ### Agregar Exámen
 ![Agregar Examen](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_examen.png)    ![Agregar Examen Datos](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_examen_form.png)
+
+### Examenes Agregados
+![Examen Agregado](https://github.com/AllieMichell/Homework2do/blob/master/Images/Examen_agregado.png)
