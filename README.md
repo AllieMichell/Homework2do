@@ -4,4 +4,4 @@ Homework 2do es una aplicación que facilita el hecho de ser estudiante, ¿Pero 
 ## Imagenes
 
 ### Inicio
-![imagen no dispinble](https://github.com/AllieMichell/Homework2do/blob/master/Images/inicio.png)
+![GitHub Logo](https://github.com/AllieMichell/Homework2do/blob/master/Images/inicio.png)
