@@ -9,4 +9,4 @@ Interfaces e imagnes del flujo de la experiencia de usuario al navegar en nuestr
 ### Agregar Usuario
 ![Crear Cuenta](https://github.com/AllieMichell/Homework2do/blob/master/Images/Crear_cuenta.png)    ![Agregar Usuario](https://github.com/AllieMichell/Homework2do/blob/master/Images/Usuario_agregado.png)
 ### Agregar Exámen
-![Agregar Examen](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_examen.png)
+![Agregar Examen](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_examen.png)    ![Agregar Examen Datos](https://github.com/AllieMichell/Homework2do/blob/master/Images/Agregar_examen_form.png)
