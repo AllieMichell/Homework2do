@@ -6,4 +6,4 @@ recordar al estudiante todas aquellas futuras actividades a realizar.
 ## Imagenes
 
 ### Inicio
-![imagen no dispinble](https://github.com/AllieMichell/Homework2do/blob/master/Images/inicio.png =100x20)
+![imagen no dispinble](https://github.com/AllieMichell/Homework2do/blob/master/Images/inicio.png)
