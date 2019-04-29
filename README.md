@@ -4,7 +4,7 @@ Homework 2do es una aplicación que facilita el hecho de ser estudiante, ¿Pero 
 ## Imagenes
 Interfaces e imagnes del flujo de la experiencia de usuario al navegar en nuestra aplicación
 
-### Inicio
+### Pantalla Inicial
 ![Inicio](https://github.com/AllieMichell/Homework2do/blob/master/Images/Inicio.png)
 
 ### Menú
@@ -24,3 +24,6 @@ Interfaces e imagnes del flujo de la experiencia de usuario al navegar en nuestr
 
 ### Examenes Agregados
 ![Examen Agregado](https://github.com/AllieMichell/Homework2do/blob/master/Images/Examen_agregado.png)
+
+### Inicio
+![Inicio](https://github.com/AllieMichell/Homework2do/blob/master/Images/Inicio_data.png)    ![Inicio Datos](https://github.com/AllieMichell/Homework2do/blob/master/Images/Menu_tareas.png)
