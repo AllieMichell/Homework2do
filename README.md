@@ -68,7 +68,40 @@ Eso es realizado mediante la ejecución del archivo por lotes
 $ cd startup.sh
 ```
 ## Uso 
-
+Se puede hacer uso de las APIs consumiendo los siguientes servicios en el servidor montado en el pueto 8080 de la siguiente forma http://localhost:8080/utm/api/v1
+### APIS
+```json
+{
+    "_links": [
+        {
+            "href": "http://localhost:8080/utm/api/v1/",
+            "rel" : "api"
+        },
+        {
+            "href": "http://localhost:8080/utm/api/v1/file/",
+            "rel" : "file"
+        },
+        {
+            "href": "http://localhost:8080/utm/api/v1/directory/",
+            "rel" : "directory"
+        },
+        {
+            "href": "http://localhost:8080/utm/api/v1/notify/",
+            "rel" : "notify"
+        },
+        {
+            "href": "http://localhost:8080/utm/api/v1/user/",
+            "rel" : "user"
+        },
+        {
+            "href": "http://localhost:8080/utm/api/v1/index/",
+            "rel" : "index"
+        }
+    ],
+    "version" : "1"
+}
+```
+Las apis mostradas anteriormente son empleadas para lograr ver todos los servicios disponibles de la aplicación 
 ## Créditos
 ### Alummnos
 Yesica Lizbeth Aldape García  
