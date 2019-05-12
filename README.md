@@ -71,10 +71,10 @@ $ cd startup.sh
 
 ## Créditos
 ### Alummnos
-Yesica Lizbeth Aldape García 
-Miguel Matthew Montes de Oca Guzmán
-José Isaac Zermeño Sánchez
-Allie Michell Flores Sánchez 
+Yesica Lizbeth Aldape García  
+Miguel Matthew Montes de Oca Guzmán  
+José Isaac Zermeño Sánchez  
+Allie Michell Flores Sánchez   
 ### Universidad
 Universidad Tecmilenio 
 ### Materia 
